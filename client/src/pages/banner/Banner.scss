@@ -1,0 +1,10 @@
+.Banner {
+    // background-image: url('/public/img/pink_bg.png');
+    background-color: #C1C2BA;
+    padding: 40px;
+    display: grid;
+    place-items: center;
+    .img {
+        width: 90%
+    }
+}
